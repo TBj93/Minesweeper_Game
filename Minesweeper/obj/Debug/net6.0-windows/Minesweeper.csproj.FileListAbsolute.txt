@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\GitHub\Minesweeper_Game\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form1.resources
+C:\Users\PC\Documents\GitHub\Minesweeper_Game\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\Minesweeper_Game\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Minesweeper_Game\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Minesweeper_Game\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Minesweeper_Game\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
